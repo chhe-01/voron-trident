@@ -27,6 +27,7 @@
 + **Extruder**: [WW-BMG for A4T](https://github.com/Armchair-Heavy-Industries/A4T/tree/main/STL/WW-BMG%20for%20A4T)
 + **Probe:** Cartographer v4 via CAN
 + **Cooling:**
++ _Hotend Fan: Delta ASB02505SHA-AY6B (RPM Monitoring)
 + **Electronics:**
 + **CAN-Bus Cable:** IGUS CF9.05.04
 + **Touchscreen:** Bigtreetech HDMI5 V1.2
