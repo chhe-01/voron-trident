@@ -48,12 +48,14 @@
 + [DIN Clips/Brackets](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
 + [WAGO Mount](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/WagoMounts)
 + [Panel Mounts with Clearance](https://www.printables.com/model/1116554-voron-24-trident-panel-mounts-with-clearance)
+    + insulated with 6mm Armacell
 + [66mm Tophat](https://www.printables.com/model/567013-voron-24-trident-tophat-66mm)
+    + insulated with 6mm Armecell + 3mm Alubutyl
 + [Angry Cam](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/chri.kai.in/Angry_CAM_USB)
 + 3x Px#*s on a Teststick
 + [Button Deck Panel Lifter](https://www.printables.com/model/1303301-push-button-deck-panel-lifter-for-trident-inverted)
 + [Adjustable Gantry Brush](https://www.printables.com/model/882364-new-version-adjustable-gantry-mounted-nozzle-seal)
-+ Chamber Thermistors via [Click-On Thermistor Mount](https://www.printables.com/model/1639897-clip-on-voron-chamber-thermistor-mount-2020-extrus)
++ Chamber Thermistors via [Clip-On Thermistor Mount](https://www.printables.com/model/1639897-clip-on-voron-chamber-thermistor-mount-2020-extrus)
 
 
 
