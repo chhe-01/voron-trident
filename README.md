@@ -4,14 +4,6 @@
 [🔗 Serial Request](https://www.reddit.com/r/voroncorexy/comments/1sbmv71/serial_request_trident_300mm_discord_chhe/)
 
 ---
----
----
----
----
-
-
-
-
 
 ## 🧵 Filaments
 
@@ -20,11 +12,6 @@
 - **Accent:** Nobufil ABSx Astro Green
 
 ---
----
----
----
----
-
 
 ## 💻 Software
 
@@ -45,10 +32,7 @@
 + **Touchscreen:** Bigtreetech HDMI5 V1.2
     
 ---
----
----
----
----
+
 ## 🛠️ Mods Installed
 
 + [Inverted Electronics](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics)
