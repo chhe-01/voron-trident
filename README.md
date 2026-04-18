@@ -1,5 +1,5 @@
 
-# Voron Trident - 300x300x250 Formbot Kit
+# Voron Trident VT.2227 - 300x300x250 Formbot Kit
 
 [🔗 Serial Request](https://www.reddit.com/r/voroncorexy/comments/1sbmv71/serial_request_trident_300mm_discord_chhe/)
 
